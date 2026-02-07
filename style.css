@@ -24,3 +24,11 @@ body{
 .green{
     background-color: #228ca7;
 }
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: black;
+}
