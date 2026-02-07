@@ -57,7 +57,7 @@ cd Simon-Game
 - Clean UI logic separation
 
 # Author 
-GitHub: @tanupatwari11
+GitHub: @tanupatwari05
 
 # ⭐ This project is intentionally simple to highlight clarity of logic and strong fundamentals.
 
